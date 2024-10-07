@@ -1,2 +1,2 @@
-# Spam-Email-Detection-Project
+# Email-based-spam-detection
 This is my first group project.
